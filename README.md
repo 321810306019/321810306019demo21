@@ -1,1 +1,8 @@
-# 321810306019demo21
+# 321810306019ddef reverse(string): 
+    string = "".join(reversed(string)) 
+    return string   
+s = "Gitam"  
+print("The original string is : ",end="") 
+print(s) 
+print("The reversed string is : ",end="") 
+print(reverse(s)) emo21
